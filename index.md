@@ -2,28 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Working Projects
 
-[Project 1 Title](/sample_page)
+[Perceiving Race and it's Political Consequences](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Facebook based Political Discourse during the 2016 Presidential Election](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Partner Choicing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Teaching Interests
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Textual Analysis](http://example.com/)
+- [Categorical Data Analysis](http://example.com/)
+- [Data Reducation and Multivariate Analysis](http://example.com/)
 
 ---
 
